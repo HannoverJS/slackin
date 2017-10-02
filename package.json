@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "slackin": "^0.13.0"
+  }
+}
